@@ -8,10 +8,10 @@ import cpw.mods.fml.common.registry.GameRegistry;
 @GameRegistry.ObjectHolder(Reference.MOD_ID)
 public class ModBlocks
 {
-    public static final BlockJCM Tatami= new BlockTatami();
+    public static final BlockJCM tatami= new BlockTatami();
 
     public static void init()
     {
-        GameRegistry.registerBlock(Tatami, "Tatami");
+        GameRegistry.registerBlock(tatami,"Tatami");
     }
 }

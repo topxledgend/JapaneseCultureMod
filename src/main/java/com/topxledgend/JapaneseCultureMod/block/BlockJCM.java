@@ -1,12 +1,14 @@
 package com.topxledgend.JapaneseCultureMod.block;
 
-import com.topxledgend.JapaneseCultureMod.creativetab.*;
+import com.topxledgend.JapaneseCultureMod.creativetab.CreativeTabJCM;
 import com.topxledgend.JapaneseCultureMod.reference.Reference;
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
 import net.minecraft.block.Block;
 import net.minecraft.block.material.Material;
 import net.minecraft.client.renderer.texture.IIconRegister;
+
+import java.sql.Ref;
 
 public class BlockJCM extends Block
 {

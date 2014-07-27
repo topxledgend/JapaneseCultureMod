@@ -1,10 +1,15 @@
 package com.topxledgend.JapaneseCultureMod.creativetab;
 
+import com.topxledgend.JapaneseCultureMod.init.ModBlocks;
 import com.topxledgend.JapaneseCultureMod.reference.Reference;
 import com.topxledgend.JapaneseCultureMod.init.ModItems;
 import com.topxledgend.JapaneseCultureMod.reference.Reference;
+import net.minecraft.block.Block;
 import net.minecraft.creativetab.CreativeTabs;
 import net.minecraft.item.Item;
+import scala.tools.nsc.doc.model.Public;
+
+import static com.topxledgend.JapaneseCultureMod.init.ModBlocks.Tatami;
 
 
 public class CreativeTabJCM

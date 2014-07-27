@@ -5,6 +5,7 @@ public class ItemOnigiri extends ItemJCM
       public ItemOnigiri()
       {
           super();
-          this.setUnlocalizedName("onigiri");
+          this.setUnlocalizedName("Onigiri");
+          this.setTextureName("Onigiri");
     }
 }
