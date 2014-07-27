@@ -1,0 +1,21 @@
+[
+{
+  "modid": "JapaneseCultureMod",
+  "name": "Japanese Culture Mod",
+  "description": "Japanese Culture Mod!",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": [
+    "topxledgend"
+  ],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
