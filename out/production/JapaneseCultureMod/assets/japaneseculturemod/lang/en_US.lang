@@ -1,2 +1,3 @@
 item.Onigiri.name=Onigiri
-tile.tatami.name=Tatami
+tile.japaneseculturemod:tatami.name=Tatami
+itemGroup.japaneseculturemod=JCM

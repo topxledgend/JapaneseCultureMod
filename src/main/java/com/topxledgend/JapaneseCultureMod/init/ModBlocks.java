@@ -12,6 +12,6 @@ public class ModBlocks
 
     public static void init()
     {
-        GameRegistry.registerBlock(tatami,"Tatami");
+        GameRegistry.registerBlock (tatami, "Tatami");
     }
 }

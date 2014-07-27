@@ -14,12 +14,15 @@ import static com.topxledgend.JapaneseCultureMod.init.ModBlocks.Tatami;
 
 public class CreativeTabJCM
 {
-    public static final CreativeTabs JCM_TAB = new CreativeTabs(Reference.MOD_ID.toLowerCase())
-    {
+    public static final CreativeTabs JCM_TAB;
 
-        @Override
-        public Item getTabIconItem() {
-            return ModItems.Onigiri;
-        }
-    };
+    static {
+        JCM_TAB = new CreativeTabs(Reference.MOD_ID.toLowerCase()) {
+
+            @Override
+            public Item getTabIconItem() {
+                return ModItems.Onigiri;
+            }
+        };
+    }
 }
